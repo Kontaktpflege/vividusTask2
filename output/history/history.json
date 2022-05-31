@@ -1,0 +1,411 @@
+{
+  "[batch: batch-1][stories-chain: file:/Users/macbook/task2/output/resources/main/story/web/Login.story][scenario: Log in the application-0]" : {
+    "statistic" : {
+      "failed" : 18,
+      "broken" : 8,
+      "skipped" : 6,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 36
+    },
+    "items" : [ {
+      "uid" : "759658970677b138",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023293188,
+        "stop" : 1654023305865,
+        "duration" : 12677
+      }
+    }, {
+      "uid" : "d2a4cae3ac45537e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654023106706,
+        "stop" : 1654023117900,
+        "duration" : 11194
+      }
+    }, {
+      "uid" : "6c581e6dc8f9b85d",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"password\"]'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1654022847663,
+        "stop" : 1654022861589,
+        "duration" : 13926
+      }
+    }, {
+      "uid" : "d845099ac6a5b591",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654022340251,
+        "stop" : 1654022351114,
+        "duration" : 10863
+      }
+    }, {
+      "uid" : "89dcac82f94e101c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654021581878,
+        "stop" : 1654021592974,
+        "duration" : 11096
+      }
+    }, {
+      "uid" : "7fcf6f742407c84a",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"password\"]'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) An element with attributes XPath: '//*[@id=\"login-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]",
+      "time" : {
+        "start" : 1654021491140,
+        "stop" : 1654021507213,
+        "duration" : 16073
+      }
+    }, {
+      "uid" : "aa58bf90e1274e17",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"password\"]'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) An element with attributes XPath: '//*[@id=\"login-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n3) Page has correct URL [Expected: <https://trello.com/tt0128389/boards> Actual: <https://id.atlassian.com/signup/welcome/sent?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%2F&display=&aaOnboarding=&updateEmail=&traceId=62965cb38b59ca895cb0f71b747c9b62&migrateGoogle=&ssoVerified=&token=eyJraWQiOiJtaWNyb3NcL3NpZ24taW4tc2VydmljZVwvODFiNXBlaWtycjBkMTE0diIsImFsZyI6IlJTMjU2In0.eyJhdWQiOiJsaW5rLXNpZ25hdHVyZS12YWxpZGF0b3IiLCJzdWIiOiJ0dDY0NTQ4NEBnbWFpbC5jb20iLCJuYmYiOjE2NTQwMjEzMDEsInNjb3BlIjoid2VsY29tZUVtYWlsUmVzZW50IiwiaXNzIjoibWljcm9zXC9zaWduLWluLXNlcnZpY2UiLCJyZWRpcmVjdFR5cGUiOiJyZXN1bWVfc2lnbnVwIiwiZXhwIjoxNjU0MDIyMjAxLCJ1c2VySWQiOiI2Mjk1ZWYzODQxN2ViMzAwNmFiMDhkNzIiLCJpYXQiOjE2NTQwMjEzMDEsImp0aSI6ImQ0YmMzNjZhLWI4M2ItNDQ3Mi04M2UwLTE0Mjk1OTg4NGQzMCJ9.YJ6QTgT7m2gedbVrJdcPV5d3wnPG7Ogo2mAYzpnWoW0WEBXl8YIWOGxJgYZXGmApqtCPpoO-nyiWlagA8YFGNG0_06_sKG4Gvt1off0ekzXaqHf5JDloWxbcaFxpbMHcXzg7TaqOTpl9A12mwzU966YrtBa_AQ4jRroTyJHELEA1UIUxexhwww0GF-7L2WDtH-6zQATuh2NvG4KT_zA_XhSsLrIXWXS5indauYqmxC9kJN5GKSxqqpNMDZbA7djPouiXa0T-jP8fTeZZUlhd_FInjDQuJiRRP_B-SDpYqPjJSntzH9jG6bMazKKOEGYQnTzgfvrrEUgPtZwEIfZvjQ>]",
+      "time" : {
+        "start" : 1654021291132,
+        "stop" : 1654021305256,
+        "duration" : 14124
+      }
+    }, {
+      "uid" : "6a7f492efbd21969",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"login-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) Page has correct URL [Expected: <https://trello.com/tt0128389/boards> Actual: <https://trello.com/login>]",
+      "time" : {
+        "start" : 1654021179577,
+        "stop" : 1654021195662,
+        "duration" : 16085
+      }
+    }, {
+      "uid" : "8cf238ea6f8980cf",
+      "status" : "failed",
+      "statusDetails" : "1) Page has correct URL [Expected: <https://trello.com/tt0128389/boards> Actual: <https://id.atlassian.com/login?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%2F&display=&aaOnboarding=&updateEmail=&traceId=629634c394a96f52bff67c4789760f31&migrateGoogle=&ssoVerified=&email=tt0128389@gmail.com&errorCode&login_hint=tt0128389@gmail.com&restrict=true>]",
+      "time" : {
+        "start" : 1654011064933,
+        "stop" : 1654011087226,
+        "duration" : 22293
+      }
+    }, {
+      "uid" : "5382ce05623e5348",
+      "status" : "failed",
+      "statusDetails" : "1) Page has correct URL [Expected: <https://trello.com/tt0128389/boards> Actual: <https://id.atlassian.com/login?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%2F&display=&aaOnboarding=&updateEmail=&traceId=6295fc90136c5105a451adcdda4a2dec&migrateGoogle=&ssoVerified=&email=tt0128389@gmail.com&errorCode&login_hint=tt0128389@gmail.com&restrict=true>]",
+      "time" : {
+        "start" : 1653996679229,
+        "stop" : 1653996725616,
+        "duration" : 46387
+      }
+    }, {
+      "uid" : "a034e8c47d83342e",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://id.atlassian.com/login?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%252F%26display=%26aaOnboarding=%26updateEmail=%26traceId=6295f6dfdd477eeb187623a61c14a813%26migrateGoogle=%26ssoVerified=&email=tt0128389@gmail.com&errorCode&login_hint=tt0128389@gmail.com&restrict=true\"]",
+      "time" : {
+        "start" : 1653995223521,
+        "stop" : 1653995242804,
+        "duration" : 19283
+      }
+    }, {
+      "uid" : "8320d548183006d8",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://id.atlassian.com/login?application=trello&continue=https://trello.com/auth/atlassian/callback?returnUrl=%252F%26display=%26aaOnboarding=%26updateEmail=%26traceId=6295f5abbf78f1b7cea185e37c225ae5%26migrateGoogle=%26ssoVerified=&email=tt0128389@gmail.com&errorCode&login_hint=tt0128389@gmail.com&restrict=true\"]",
+      "time" : {
+        "start" : 1653994916114,
+        "stop" : 1653994928941,
+        "duration" : 12827
+      }
+    }, {
+      "uid" : "d830d61081d149a3",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653994873283,
+        "stop" : 1653994883532,
+        "duration" : 10249
+      }
+    }, {
+      "uid" : "fa25118d452bfa66",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653994698276,
+        "stop" : 1653994709256,
+        "duration" : 10980
+      }
+    }, {
+      "uid" : "316d80299307ce4c",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653994504847,
+        "stop" : 1653994515462,
+        "duration" : 10615
+      }
+    }, {
+      "uid" : "878727fa9b1d4269",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653994345061,
+        "stop" : 1653994356000,
+        "duration" : 10939
+      }
+    }, {
+      "uid" : "b2c5a063d4aec273",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653993813323,
+        "stop" : 1653993824434,
+        "duration" : 11111
+      }
+    }, {
+      "uid" : "aa37dc40127e4bbb",
+      "status" : "failed",
+      "statusDetails" : "1) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653992644042,
+        "stop" : 1653992657363,
+        "duration" : 13321
+      }
+    }, {
+      "uid" : "5d2f53393eb8a1d4",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"login-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) Page with the URLpart '$/boards' is loaded [Expected: a string containing \"$/boards\" Actual: was \"https://trello.com/login\"]",
+      "time" : {
+        "start" : 1653984634595,
+        "stop" : 1653984646137,
+        "duration" : 11542
+      }
+    }, {
+      "uid" : "92eb9bc2a0a7552f",
+      "status" : "broken",
+      "statusDetails" : "element not interactable\n  (Session info: chrome=102.0.5005.61)\nBuild info: version: '4.1.4', revision: '535d840ee2'\nSystem info: host: 'MacBooks-MacBook-Pro.local', ip: 'fe80:0:0:0:3b:c6fe:db1c:501e%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '17.0.3.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9dc909bf3462784b5664cd48dd7a0b5c, clearElement {id=33051604-dc33-42e4-b5e5-b835d5acfdd6}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.61, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: /var/folders/r3/thzlxrbx3dg...}, goog:chromeOptions: {debuggerAddress: localhost:54968}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:54968/devtoo..., se:cdpVersion: 102.0.5005.61, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nElement: [[ChromeDriver: chrome on MAC (9dc909bf3462784b5664cd48dd7a0b5c)] -> xpath: //*[normalize-space(@id)=\"password\"]]\nSession ID: 9dc909bf3462784b5664cd48dd7a0b5c",
+      "time" : {
+        "start" : 1653984525929,
+        "stop" : 1653984533130,
+        "duration" : 7201
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/Users/macbook/task2/output/resources/main/story/web/test1.story][scenario: Log in the application-0]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8bfe8ae8627c6cd2",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653975706751,
+        "stop" : 1653975706783,
+        "duration" : 32
+      }
+    }, {
+      "uid" : "211b8cd256d6be0e",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653971081552,
+        "stop" : 1653971081601,
+        "duration" : 49
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/Users/macbook/task2/output/resources/main/story/web/Login.story][scenario: Verify user profile-0]" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 15,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 15
+    },
+    "items" : [ {
+      "uid" : "a43818bc741084e5",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654022861641,
+        "stop" : 1654022861655,
+        "duration" : 14
+      }
+    }, {
+      "uid" : "2d00a950730309cf",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654022351161,
+        "stop" : 1654022351173,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "3d05a470ae9a6317",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654021593013,
+        "stop" : 1654021593056,
+        "duration" : 43
+      }
+    }, {
+      "uid" : "c698ccd93f3e4f0b",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654021507272,
+        "stop" : 1654021507287,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "874fe0cf97812c33",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654021305293,
+        "stop" : 1654021305299,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "265900031157b586",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654021195731,
+        "stop" : 1654021195740,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "f0bfeb20d176c1f6",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1654011087351,
+        "stop" : 1654011087366,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "5231f77b15d0ef88",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653996725661,
+        "stop" : 1653996725679,
+        "duration" : 18
+      }
+    }, {
+      "uid" : "f8c2da3228c5a8b1",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653995242842,
+        "stop" : 1653995242853,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "94b84b15686b1e22",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653994928977,
+        "stop" : 1653994928989,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "8c6e0884ec21aa47",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653994883582,
+        "stop" : 1653994883603,
+        "duration" : 21
+      }
+    }, {
+      "uid" : "4e04854d527fc4d",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653994709308,
+        "stop" : 1653994709321,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "53bac8be68d32f78",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653994515498,
+        "stop" : 1653994515510,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "98755d81dbf8a4a3",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653994356039,
+        "stop" : 1653994356052,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "7d5a0acb580c7bc4",
+      "status" : "skipped",
+      "statusDetails" : "The step is not implemented",
+      "time" : {
+        "start" : 1653993824473,
+        "stop" : 1653993829632,
+        "duration" : 5159
+      }
+    } ]
+  },
+  "[batch: batch-1][stories-chain: file:/Users/macbook/task2/output/resources/main/story/web/VerifyUser.story][scenario: Verify user profile-0]" : {
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "18cea76bf027d658",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"welcome-send-validation-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) There is an element with text=We've sent you an email! in the context [The condition is false]",
+      "time" : {
+        "start" : 1654023306179,
+        "stop" : 1654023326508,
+        "duration" : 20329
+      }
+    }, {
+      "uid" : "75690ba6a492609b",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"welcome-send-validation-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) There is an element with text=We've sent you an email! in the context [The condition is false]",
+      "time" : {
+        "start" : 1654023118339,
+        "stop" : 1654023138474,
+        "duration" : 20135
+      }
+    }, {
+      "uid" : "33c8bede10e72ea5",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"welcome-send-validation-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) There is an element with text=We've sent you an email! in the context [The condition is false]",
+      "time" : {
+        "start" : 1654022861864,
+        "stop" : 1654022881252,
+        "duration" : 19388
+      }
+    }, {
+      "uid" : "82549f8240fe37d3",
+      "status" : "failed",
+      "statusDetails" : "1) An element with attributes XPath: '//*[@id=\"user\"]'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n2) An element with attributes XPath: '//*[@id=\"signup-submit\"]/span'; Visibility: VISIBLE; [Expected: exists Actual: does not exist]\n3) Page has correct URL [Expected: <https://trello.com/create-first-team> Actual: <https://trello.com/signup>]",
+      "time" : {
+        "start" : 1654022351380,
+        "stop" : 1654022368162,
+        "duration" : 16782
+      }
+    } ]
+  }
+}
